@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labirent", "Labirent\Labirent.csproj", "{AE4BFDAB-5D05-4FED-9716-A0D4EC8E4C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4BFDAB-5D05-4FED-9716-A0D4EC8E4C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4BFDAB-5D05-4FED-9716-A0D4EC8E4C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4BFDAB-5D05-4FED-9716-A0D4EC8E4C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4BFDAB-5D05-4FED-9716-A0D4EC8E4C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {712213D4-C832-405C-B075-44496FC153F3}
+	EndGlobalSection
+EndGlobal
